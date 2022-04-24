@@ -17,6 +17,8 @@ public class PàcticaXaviAli {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Print a");
+        System.out.println("La Alícia es la más guapa y lleva 6 meses con el más"
+                + " guapo");
     }
     
 }
